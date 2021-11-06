@@ -10,10 +10,10 @@ First, I started by reviewing the data that was provided. This helped me get an 
 
 
 ## Analysis for Parent Category Outcomes
-For our categories I separated this into Parent and Subcategories so we can get a better view of what is successful. Louise is interested in Great Britain’s market. We can see that out of 604 parent campaigns in Great Britain, theatre is the most successful. Theater is also the most successful in the United States with 525 campaigns. ![This is an image](https://raw.githubusercontent.com/BrenyaSkaggs/Challenge-1/main/Theater_Outcomes_vs_Launch.png)
+For our categories I separated this into Parent and Subcategories so we can get a better view of what is successful. Louise is interested in Great Britain’s market. We can see that out of 604 parent campaigns in Great Britain, theatre is the most successful. Theater is also the most successful in the United States with 525 campaigns. ![This is an image](https://raw.githubusercontent.com/BrenyaSkaggs/Challenge-1/main/Chart-%20Parent%20Category.png)
 
 ## Analysis for Theater Outcomes by Launch Date
-Let’s view launch dates to determine if there is a certain month that is best to have a campaign. The data provided covers 2009-2017. During this timeframe we can clearly see that May and June are the best times to have a campaign. While May is one of the best times to have a successful campaign it is also the month of most failed campaigns. 
+Let’s view launch dates to determine if there is a certain month that is best to have a campaign. The data provided covers 2009-2017. During this timeframe we can clearly see that May and June are the best times to have a campaign. While May is one of the best times to have a successful campaign it is also the month of most failed campaigns. ![This is an image](https://raw.githubusercontent.com/BrenyaSkaggs/Challenge-1/main/Theater_Outcomes_vs_Launch.png)
 
 ###Challenges
 The Theater Outcomes pivot table ask that we only show months under categories. While creating this table I noticed that by selecting the date created conversion it filters into months, years, and quarters. I’m still learning pivot tables and trying to get this to work for me was trial and error. Once I was able to have my other fields correct, I could go in and work on the Axis section to ensure it showed months only. 
